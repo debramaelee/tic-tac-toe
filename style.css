@@ -1,0 +1,52 @@
+	body {
+		text-align:center;
+		background-color: turquoise;
+		font-family: 'Crafty Girls', cursive;
+	}
+
+	.box {
+		width: 125px;
+		height: 125px;
+		font-size: 5em;
+		border: none;
+		outline: 0;
+		background-color: turquoise;
+		font-family: 'Crafty Girls', cursive;
+	}
+
+	#box5 {
+		border: 5px dashed black;
+	}
+
+	#box4 {
+		border-top: 5px dashed black;
+		border-bottom: 5px dashed black;
+	}
+
+	#box6 {
+		border-top: 5px dashed black;
+		border-bottom: 5px dashed black;
+	}
+
+	#box2 {
+		border-left: 5px dashed black;
+		border-right: 5px dashed black;
+	}
+
+	#box8 {
+		border-left: 5px dashed black;
+		border-right: 5px dashed black;
+	}
+
+	.gameboard {
+		display: inline-block;
+		background-color: turquoise;
+	}
+
+	#title, #message {
+		background-color: white;
+		border: 2px solid black;
+		border-radius: 25px;
+		padding: 7px;
+		margin: auto;
+	}
